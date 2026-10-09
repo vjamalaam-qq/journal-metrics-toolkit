@@ -1,0 +1,10 @@
+metric,provider,citation_window,formula,best_for
+Journal Impact Factor (JIF),Clarivate Journal Citation Reports (Web of Science),2 years (Y-1 and Y-2 cited in year Y),"Citations in year Y to citable items published in Y-1 and Y-2 ÷ citable items published in Y-1 and Y-2",Comparing journals within a single discipline
+5-year Journal Impact Factor,Clarivate Journal Citation Reports (Web of Science),5 years,Same ratio as JIF computed over a 5-year publication window,Fields where citations accumulate slowly (e.g. mathematics)
+CiteScore,Elsevier Scopus,"4 years (1 citing year + 3 publication years)","Citations in year Y to documents published in Y-1 to Y-3 ÷ documents published in Y-1 to Y-3",Broad cross-publisher comparison; covers more document types than JIF
+CiteScoreTracker,Elsevier Scopus,Monthly rolling projection,Partial-year projection of the forthcoming annual CiteScore,Seeing how the current year is shaping up before the annual release
+SCImago Journal Rank (SJR),"SCImago Lab (Scopus data)",3 years,"Weighted citations using a PageRank-like prestige algorithm; exact weighting proprietary",Prestige-weighted comparison of journal influence
+Source Normalized Impact per Paper (SNIP),"CWTS Leiden University (Scopus data)",3 years,"Citation impact normalized by the citation potential of the journal's field; method published by CWTS",Comparing journals across fields with different citation cultures
+h5-index,Google Scholar Metrics,Last 5 complete years,Largest h such that h articles published in the window have at least h citations each,Quick free check of a journal's recent influence
+Journal Citation Indicator (JCI),Clarivate Journal Citation Reports (Web of Science),3 years,Field-normalized citation impact where 1.0 equals the world average,Cross-discipline journal comparison on a level scale
+Quartile (Q1-Q4),"JCR / Scopus subject categories",Annual ranking,"Rank journals within one subject category by a chosen metric, then split into four equal groups",Benchmarking a journal against its direct peers
